@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>belajar kedua repo</h1>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum rerum esse at voluptatem, dolorum adipisci maxime ex harum quis libero a, soluta eos voluptatum, labore cupiditate optio vero deleniti amet.</p>
 </body>
 </html>
